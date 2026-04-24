@@ -1,4 +1,4 @@
-Ola Dashboard
+**Ola Dashboard**
 
 1. Project Headline
 
@@ -45,3 +45,16 @@ This project delivers a full-stack data analytics solution for Ola's ride-bookin
 - Incomplete Rides Tracker — List of rides not completed with specific reason codes (Customer Demand, Vehicle Breakdown, Other)
 - SQL-Powered Views — 10 pre-built SQL Views serve as the analytical backbone, making the data pipeline clean and repeatable
 - Interactive Filters — Slice by vehicle type, booking status, date, and payment method for drill-down analysis
+
+6. Screenshots of the Dashboard
+
+Page 1 -
+
+Page 2 -
+
+Page 3 -
+
+Page 4 -
+
+Page 5 -
+
