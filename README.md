@@ -48,13 +48,13 @@ This project delivers a full-stack data analytics solution for Ola's ride-bookin
 
 6. Screenshots of the Dashboard
 
-Page 1 -
+Page 1 - https://github.com/Goutamee/Ola_Dashboard/blob/main/Screenshot_1.png
 
-Page 2 -
+Page 2 - https://github.com/Goutamee/Ola_Dashboard/blob/main/Screenshot_2.png
 
-Page 3 -
+Page 3 - https://github.com/Goutamee/Ola_Dashboard/blob/main/Screenshot_3.png
 
-Page 4 -
+Page 4 - https://github.com/Goutamee/Ola_Dashboard/blob/main/Screenshot_4.png
 
-Page 5 -
+Page 5 - https://github.com/Goutamee/Ola_Dashboard/blob/main/Screenshot_5.png
 
