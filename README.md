@@ -21,6 +21,8 @@ This project delivers a full-stack data analytics solution for Ola's ride-bookin
 
 4. Data Source
 
+More info on where data come from and how it's structured, source: Kaggle.
+
 - File: `Bookings.xlsx` → imported into MySQL as the `bookings` table in the `ola` database
 - Records: ~103,024 ride bookings (July 2024, Bengaluru)
 - Fields (20 columns):
